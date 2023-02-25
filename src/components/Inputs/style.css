@@ -1,0 +1,19 @@
+.search {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.header-box__search__input {
+  border: none;
+  width: 350px;
+  background: transparent;
+}
+
+.header-box__search__input:focus {
+  outline: none;
+}
+
+.header-box__search__icon:hover {
+  cursor: pointer;
+}
